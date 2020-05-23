@@ -1,2 +1,2 @@
 # FaceDetection
-Face Detection using OpenCV
+Face Detection, Video Capturing and Motion Detection using OpenCV
